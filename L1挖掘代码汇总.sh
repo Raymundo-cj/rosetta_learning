@@ -1,3 +1,5 @@
+### 这些将记录使用lastz的代码
+
 #!/bin/bash
 #SBATCH -p amd_256
 #SBATCH -N 1
